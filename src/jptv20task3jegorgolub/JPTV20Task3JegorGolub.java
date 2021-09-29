@@ -28,7 +28,7 @@ public class JPTV20Task3JegorGolub {
         System.out.print("Ваш год рождения: ");
         String year = input.nextLine();
        
-        System.out.print("Ваш месяц рождения(словом): ");
+        System.out.print("Ваш месяц рождения: ");
         String month = input.nextLine();
        
         System.out.print("Ваш день рождения: ");
